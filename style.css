@@ -1,0 +1,29 @@
+.orange{
+    height: 200px;
+    width: 600px;
+    background-color:orange;
+    position: static;
+}
+
+div .white{
+    height: 200px;
+    width: 600px;
+    background-color: white;
+    position: absolute;
+    top:200px;
+}
+
+div .green{
+    height: 200px;
+    width: 600px;
+    background-color: green;
+    position: absolute;
+    top: 400px;
+}
+
+div .white img{
+    height: 200px;
+    width: 250px;
+    position: relative;
+    left: 175px;
+}
